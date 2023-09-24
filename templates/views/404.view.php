@@ -1,7 +1,8 @@
 <?php require_once(PARTIALS . "/head.view.php"); ?>
 
 <div>
-    <p>Error occured. Please try again later.</p>
+    <h1>Sorry, page not found</h1>
+    <p>Return to the <a href="/">index page</a>.</p>
 </div>
 
 <?php require_once(PARTIALS . "/footer.view.php"); ?>
